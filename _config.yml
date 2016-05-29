@@ -6,21 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: UIN SUSKA
+title: uin suska SISTEM INFORMASI
 
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
-event_label: Events
+event_label: UIN SUSKA
 
 description: > # this means to ignore newlines until "baseurl:"
    UIN SUSKA 
-
 Universitas Islam Negeri Sultan Syarif Kasim ( lihat ) atau LIHAT 
-
 Jl. Subrantas Km. 15, Pekanbaru, 28293
-
-Telp : 0761-562223
- 
-Email: humas@uin-suska.ac.id
+Telp (0761 562223)
+Email( humas@uin-suska.ac.id)
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
