@@ -1,6 +1,6 @@
 ---
 layout: page
-navigation_title: About
+navigation_title: Tentang Uin Suska
 title: Tentang Uin Suska
 permalink: /about/
 ---
