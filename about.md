@@ -1,25 +1,22 @@
 ---
 layout: page
 navigation_title: About
-title: About Evento
+title: Tentang Uin Suska
 permalink: /about/
 ---
 
-[Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
+[Uin Suska](http://uin-suska.ac.id/) Universitas Islam Negeri (UIN) Sultan Syarif Kasim Riau telah mengembangkan berbagai program studi yang mendukung penyeleng-garaan program pendidikan tinggi dengan membuka fakultas, jurusan, dan program studi baru di samping fakultas-fakultas yang sudah ada sebelumnya..
 
-# The Problem I was trying to solve
+# Jurusan Sistem Informasi
+
+Jurusan Informasi merupakan salah satu dari 5 jurusan yang ada di fakultas Sains dan teknologi, jurusan ini memiliki akreditas yang cukup baik yaitu **B**, namun dibalik para dosen yang profesional dan berkopeten,terdapat pula mahasiswa yang menjunjung tinggi almamater dan berkeinginan kuat dalam proses pembelajaran pada jurusan ini. [SIF Uin Suska](http://sif.uin-suska.ac.id/)
+
+Sistem Informasi
+- Ketua Syaifullah, SE, M. Sc
+- Sekretaris Anofrizen, M. Kom 
 
 
-At my current place of work we run internal speaker events called Brownbags.
- 
-Brownbags are a great platform and environment for professionals to speak about anything that interests them. 
 
-The main problem I found was that there was no **easy to use** platform to see what Brownbags, Internal Training or other events are coming up or have already gone, so I created [Evento](https://github.com/boyney123/evento)
-
-This free and opensource platform should allow any organisation or group to collect and share their events in one place.
-
-If you would like to contribute to the project or folk it for your own organisation or group feel free. 
-
-<a href="https://github.com/boyney123/evento"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> Evento</a>
+<a href="https://github.com/ibnuyohanzah/ibnuyohanzah.github.io"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> IBNU</a>
 
 
