@@ -11,7 +11,8 @@ permalink: /about/
 
 Jurusan Informasi merupakan salah satu dari 5 jurusan yang ada di fakultas Sains dan teknologi, jurusan ini memiliki akreditas yang cukup baik yaitu **B**, namun dibalik para dosen yang profesional dan berkopeten,terdapat pula mahasiswa yang menjunjung tinggi almamater dan berkeinginan kuat dalam proses pembelajaran pada jurusan ini. [SIF Uin Suska](http://sif.uin-suska.ac.id/)
 
-Sistem Informasi
+Sistem Informasi.
+
 - Ketua Syaifullah, SE, M. Sc
 - Sekretaris Anofrizen, M. Kom 
 
