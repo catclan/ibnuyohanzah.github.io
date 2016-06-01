@@ -13,8 +13,8 @@ Jurusan Informasi merupakan salah satu dari 5 jurusan yang ada di fakultas Sains
 
 Sistem Informasi.
 
-- Ketua Syaifullah, SE, M. Sc
-- Sekretaris Anofrizen, M. Kom 
+- Ketua **Syaifullah, SE, M. Sc**
+- Sekretaris **Anofrizen, M. Kom** 
 
 
 
